@@ -1,6 +1,6 @@
 <img width="141" height="146" alt="pxlfun" src="https://github.com/user-attachments/assets/482fe241-5676-4eb4-92e5-d81a08f7bbce" /> 
 
-# 🎨 pixlfun
+## 🎨 pixlfun
 Ein einfacher, erweiterbarer Pixel-Art-Editor als lokaler Webservice.  
 Gebaut mit Flask + Vanilla JS. Kein Build-Schritt nötig.
 
