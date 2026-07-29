@@ -1,4 +1,4 @@
-# 🎨 Pixel Art Studio
+# 🎨 Pixl fun
 
 Ein einfacher, erweiterbarer Pixel-Art-Editor als lokaler Webservice.  
 Gebaut mit Flask + Vanilla JS. Kein Build-Schritt nötig.
