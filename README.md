@@ -1,4 +1,4 @@
-# 🎨 Pixl fun
+# 🎨 Pixlfun
 
 Ein einfacher, erweiterbarer Pixel-Art-Editor als lokaler Webservice.  
 Gebaut mit Flask + Vanilla JS. Kein Build-Schritt nötig.
